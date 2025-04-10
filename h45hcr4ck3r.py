@@ -154,7 +154,7 @@ if __name__ == "__main__":
     print("  )(    )(    )(    )(   ) (__) |   )(   ")
     print(" (__)  (__)  (__)  (__) (______/  (__)  ")
     print("-----------------------------------------")
-    print("  A Powerful Hash Cracking Tool by One AI ")
+    print("  A Powerful Hash Cracking Tool by OD&H  ")
     print("-----------------------------------------\n")
 
     hash_value = input("Enter the hash: ").strip()
